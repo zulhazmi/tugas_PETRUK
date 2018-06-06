@@ -1,0 +1,27 @@
+F:\tugas besar prtruk\angkringankece\angkringankece\bin\Debug\angkringankece.exe.config
+F:\tugas besar prtruk\angkringankece\angkringankece\bin\Debug\angkringankece.exe
+F:\tugas besar prtruk\angkringankece\angkringankece\bin\Debug\angkringankece.pdb
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.csprojResolveAssemblyReference.cache
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.Form1.resources
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.Properties.Resources.resources
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.csproj.GenerateResource.Cache
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.exe
+F:\tugas besar prtruk\angkringankece\angkringankece\obj\Debug\angkringankece.pdb
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\angkringankece.exe.config
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.exe
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.pdb
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\angkringankece.exe
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\angkringankece.pdb
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\mscorlib.dll
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\System.Net.Http.dll
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\System.Net.Http.xml
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\normidna.nlp
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\normnfc.nlp
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\normnfd.nlp
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\normnfkc.nlp
+D:\tugas\pemrograman terstruktur\zul\angkringankece\bin\Debug\normnfkd.nlp
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.csprojResolveAssemblyReference.cache
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.Form1.resources
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.Properties.Resources.resources
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.csproj.GenerateResource.Cache
+D:\tugas\pemrograman terstruktur\zul\angkringankece\obj\Debug\angkringankece.Form2.resources
